@@ -6,4 +6,4 @@
   <li>Contact Info</li>
   <li>Services Offered</li>
   <li>Completed Work</li>
-  <li>Skillet</li>
+  <li>Skill set</li>
